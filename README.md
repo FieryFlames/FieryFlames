@@ -1,5 +1,1 @@
-### ℹ️ About me
-- 😄 Pronouns: He/Him
-
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=bots,discord,git,github,linux,py,raspberrypi,swift,ts,vscode)](https://skillicons.dev)
+[![An image of @fieryflames's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fieryflames)](https://holopin.io/@fieryflames)
